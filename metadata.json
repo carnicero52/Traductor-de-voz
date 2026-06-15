@@ -1,0 +1,6 @@
+{
+  "name": "Traductor de Voz",
+  "description": "Una aplicación sencilla y minimalista para traducir voz en tiempo real entre Español, Portugués y Inglés.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
